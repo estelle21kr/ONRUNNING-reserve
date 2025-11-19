@@ -1,0 +1,17 @@
+# API 키
+APIkey.js
+*.env
+.env
+.env.local
+
+# 운영체제
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 에디터
+.vscode/
+.idea/
+
+# Node.js
+node_modules/
