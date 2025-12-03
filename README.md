@@ -56,17 +56,16 @@
 
 ## 🎯 핵심 기능 > 2️⃣ 예약 시스템
 [해당 런닝 크루에 관한 설명]
-<img src="./screenshot/explanation1.png"  width="700" height="370">
-<img src="./screenshot/explanation2.png"  width="700" height="370">
-<img src="./screenshot/explanation3.png"  width="700" height="370">
+<img src="./screenshot/explanation1.png" width="700" height="370">
+<img src="./screenshot/explanation2.png" width="700" height="370">
+<img src="./screenshot/explanation3.png" width="700" height="370">
 
 [회원/비회원 예약창]
-<img src="./screenshot/reserve1.png"  width="700" height="370">
-<img src="./screenshot/reserve2.png"  width="700" height="370">
+<img src="./screenshot/reserve1.png" width="700" height="370">
+<img src="./screenshot/reserve2.png" width="700" height="370">
 
 [예약 확인 이메일]
-<img src="./screenshot/mypage6.png"  width="700" height="370">
-
+<img src="./screenshot/mypage6.png" width="700" height="370">
 
 ---
 
@@ -91,20 +90,20 @@
 
 ## 🎯 핵심 기능 > 3️⃣ 마이페이지 아래에 이미지 추가
 [마이페이지 프로필]
-<img src="./screenshot/mypage1.png"  width="700" height="370">
+<img src="./screenshot/mypage1.png" width="700" height="370">
+
 [스탬프 시스템]
-<img src="./screenshot/mypage2.png"  width="700" height="370">
+<img src="./screenshot/mypage2.png" width="700" height="370">
+
 [북마크 관리]
-<img src="./screenshot/mypage3.png"  width="700" height="370">
+<img src="./screenshot/mypage3.png" width="700" height="370">
 
 [회원 예약확인]
-<img src="./screenshot/mypage4.png"  width="700" height="370">
-<img src="./screenshot/mypage5.png"  width="700" height="370">
+<img src="./screenshot/mypage4.png" width="700" height="370">
+<img src="./screenshot/mypage5.png" width="700" height="370">
 
 [비회원 예약확인]
-<img src="./screenshot/check1.png"  width="700" height="370">
-
-
+<img src="./screenshot/check1.png" width="700" height="370">
 ---
 
 #### 4️⃣ **커뮤니티 페이지 - ON CREW, ON GEAR, ON PROGRAM**
@@ -132,21 +131,20 @@
 
 ## 🎯 핵심 기능 > 4️⃣ 커뮤니티
 [ON CREW 페이지]
-<img src="./screenshot/oncrew1.png"  width="700" height="370">
-<img src="./screenshot/oncrew2.png"  width="700" height="370">
+<img src="./screenshot/oncrew1.png" width="700" height="370">
+<img src="./screenshot/oncrew2.png" width="700" height="370">
 
 [ON GEAR 페이지]
-<img src="./screenshot/ongear1.png"  width="700" height="370">
-<img src="./screenshot/ongear2.png"  width="700" height="370">
+<img src="./screenshot/ongear1.png" width="700" height="370">
+<img src="./screenshot/ongear2.png" width="700" height="370">
 
 [ON PROGRAM 페이지]
-<img src="./screenshot/onprogram1.png"  width="700" height="370">
-<img src="./screenshot/onprogram2.png"  width="700" height="370">
+<img src="./screenshot/onprogram1.png" width="700" height="370">
+<img src="./screenshot/onprogram2.png" width="700" height="370">
 
 [RUNTOGETHER 페이지]
-<img src="./screenshot/runtogetherseoul1.png"  width="700" height="370">
-<img src="./screenshot/runtogetherseoul2.png"  width="700" height="370">
-
+<img src="./screenshot/runtogetherseoul1.png" width="700" height="370">
+<img src="./screenshot/runtogetherseoul2.png" width="700" height="370">
 
 ---
 
@@ -173,16 +171,14 @@
 
 ## 🎯 핵심 기능 > 5️⃣ 추가 기능 아래에 이미지 추가
 [QnA 페이지]
-<img src="./screenshot/qna1.png"  width="700" height="370">
-<img src="./screenshot/qna2.png"  width="700" height="370">
-<img src="./screenshot/qna3.png"  width="700" height="370">
-<img src="./screenshot/qna4.png"  width="700" height="370">
-<img src="./screenshot/qna5.png"  width="700" height="370">
+<img src="./screenshot/qna1.png" width="700" height="370">
+<img src="./screenshot/qna2.png" width="700" height="370">
+<img src="./screenshot/qna3.png" width="700" height="370">
+<img src="./screenshot/qna4.png" width="700" height="370">
+<img src="./screenshot/qna5.png" width="700" height="370">
 
 [Contact 페이지]
-<img src="./screenshot/contact1.png"  width="700" height="370">
-
-
+<img src="./screenshot/contact1.png" width="700" height="370">
 ---
 
 #### 6️⃣ **사용자 인증 시스템**
@@ -202,12 +198,10 @@
 
 ## 🎯 핵심 기능 > 6️⃣ 사용자 인증 아래에 이미지 추가
 [로그인 페이지]
-<img src="./screenshot/login1.png"  width="700" height="370">
+<img src="./screenshot/login1.png" width="700" height="370">
 
 [회원가입 페이지]
-<img src="./screenshot/createaccount1.png"  width="700" height="370">
-
-
+<img src="./screenshot/createaccount1.png" width="700" height="370">
 ---
 
 ## 🛠️ 기술 스택
