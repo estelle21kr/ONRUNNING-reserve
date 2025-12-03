@@ -32,6 +32,9 @@
 ## 🎯 핵심 기능 > 1️⃣ 메인 페이지 
 <img src="./screenshot/main_page1.png" width="700" height="370">
 <img src="./screenshot/main_page2.png" width="700" height="370">
+<img src="./screenshot/main_page3.png" width="700" height="370">
+<img src="./screenshot/main_page4.png" width="700" height="370">
+<img src="./screenshot/main_page5.png" width="700" height="370">
 
 
 ---
@@ -57,15 +60,28 @@
 ## 🎯 핵심 기능 > 2️⃣ 예약 시스템
 ### [해당 런닝 크루에 관한 설명]
 <img src="./screenshot/explanation1.png" width="700" height="370">
-<img src="./screenshot/explanation2.png" width="700" height="370">
 <img src="./screenshot/explanation3.png" width="700" height="370">
+<img src="./screenshot/explanation2.png" width="700" height="370">
+
+하나의 js를 사용하여, 구글 시트 API를 받아와 런닝 크루 정보 변경
+<img src="./screenshot/crewlist1.png" width="700" height="370">
 
 ### [회원/비회원 예약창]
 <img src="./screenshot/reserve1.png" width="700" height="370">
 <img src="./screenshot/reserve2.png" width="700" height="370">
 
-### [예약 확인 이메일]
+회원은 마이페이지의 기본 정보가 자동으로 입력되어 수정 불가능
+
+예약 정보는 구글 시트 API를 받아와 저장 가능
+<img src="./screenshot/reservations.png" width="700" height="370">
+
+
+
+### [예약 완료 확인 이메일]
 <img src="./screenshot/mypage6.png" width="700" height="370">
+
+### [예약 취소 확인 이메일]
+<img src="./screenshot/mypage7.png" width="700" height="370">
 
 ---
 
@@ -107,7 +123,7 @@
 ---
 
 #### 4️⃣ **커뮤니티 페이지 - ON CREW, ON GEAR, ON PROGRAM**
-**파일**: `oncrew.html` / `oncrew.js`, `ongear.html` / `ongear.js`, `onprogram.html` / `onprogram.js`
+**파일**: `oncrew.html`, `oncrew.js` / `ongear.html`, `ongear.js` / `onprogram.html`, `onprogram.js` / `runtogetherseoul.js`, `runtogetherseoul.js`
 
 **ON CREW** - 러닝 크루 소개:
 - 👥 러너 프로필 카드 (헤드, 버디)
@@ -174,8 +190,14 @@
 <img src="./screenshot/qna1.png" width="700" height="370">
 <img src="./screenshot/qna2.png" width="700" height="370">
 <img src="./screenshot/qna3.png" width="700" height="370">
+
+관리자모드로 입성시 모든 질문에 대한 답변 가능, 비밀번호 없이도 비공개 질문 확인 가능
 <img src="./screenshot/qna4.png" width="700" height="370">
 <img src="./screenshot/qna5.png" width="700" height="370">
+
+등록된 질문 정보는 구글 시트 API를 받아와 저장 가능
+<img src="./screenshot/questions1.png" width="700" height="370">
+
 
 ### [Contact 페이지]
 <img src="./screenshot/contact1.png" width="700" height="370">
