@@ -520,7 +520,8 @@ git clone https://github.com/yourusername/ONRUNNING.git
 
 ## 👥 개발자
 
-**작성자**: Hong Sumin (2025.11.10 기준)
+홍정민, 홍수민, 김지우, 남현서
+
 
 ---
 
