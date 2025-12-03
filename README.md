@@ -73,7 +73,7 @@
 회원은 마이페이지의 기본 정보가 자동으로 입력되어 수정 불가능
 
 예약 정보는 구글 시트 API를 받아와 저장 가능
-<img src="./screenshot/reservations.png" width="700" height="370">
+<img src="./screenshot/reservation1.png" width="700" height="370">
 
 
 
