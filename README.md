@@ -56,7 +56,7 @@
 
 ## 🎯 핵심 기능 > 2️⃣ 예약 시스템
 [해당 런닝 크루에 관한 설명]
-<img src="./screenshot/screenshot/explanation1.png"  width="700" height="370">
+<img src="./screenshot/explanation1.png"  width="700" height="370">
 <img src="./screenshot/explanation2.png"  width="700" height="370">
 <img src="./screenshot/explanation3.png"  width="700" height="370">
 
