@@ -579,8 +579,7 @@ git clone https://github.com/yourusername/ONRUNNING.git
 ## 👥 개발자
 
 **작성자**: 
-코리아IT아카데미 강남점 4조 프로젝트
-홍정민, 홍수민, 김지우, 남현서
+코리아IT아카데미 강남점 4조 프로젝트 : 홍정민, 홍수민, 김지우, 남현서
 
 ---
 
