@@ -665,28 +665,6 @@ README에 사진을 추가할 때 다음 위치에 넣으면 됩니다:
 ![API 다이어그램](/screenshots/api_flow.png)
 ```
 
-### 📸 추천 스크린샷 목록
-```
-screenshots/
-├── logo.png                    # ON RUNNING 로고
-├── 01_main_map.png            # 메인 지도 페이지
-├── 02_main_list.png           # 메인 크루 리스트
-├── 03_explanation.png         # 크루 상세 정보
-├── 04_reserve.png             # 예약 페이지
-├── 05_reserved_done.png       # 예약 완료
-├── 06_userpage.png            # 마이페이지 프로필
-├── 07_stamps.png              # 스탐프 시스템
-├── 08_bookmarks.png           # 북마크 관리
-├── 09_oncrew.png              # ON CREW 페이지
-├── 10_ongear.png              # ON GEAR 페이지
-├── 11_onprogram.png           # ON PROGRAM 페이지
-├── 12_qna.png                 # QnA 페이지
-├── 13_login.png               # 로그인 페이지
-├── 14_signup.png              # 회원가입 페이지
-├── 15_header.png              # 헤더 네비게이션
-├── 16_mobile_view.png         # 모바일 뷰
-└── architecture.png           # 전체 아키텍처
-```
 
 ---
 
