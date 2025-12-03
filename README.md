@@ -185,7 +185,7 @@
 
 
 
-## 🎯 핵심 기능 > 5️⃣ 추가 기능 아래에 이미지 추가
+## 🎯 핵심 기능 > 5️⃣ 추가 기능
 ### [QnA 페이지]
 <img src="./screenshot/qna1.png" width="700" height="370">
 <img src="./screenshot/qna2.png" width="700" height="370">
@@ -218,7 +218,7 @@
 
 
 
-## 🎯 핵심 기능 > 6️⃣ 사용자 인증 아래에 이미지 추가
+## 🎯 핵심 기능 > 6️⃣ 사용자 인증
 ### [로그인 페이지]
 <img src="./screenshot/login1.png" width="700" height="370">
 
