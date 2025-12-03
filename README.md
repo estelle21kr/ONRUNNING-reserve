@@ -28,11 +28,11 @@
 - 📍 주소 검색 및 지도 이동 기능
 
 
-```
+
 ## 🎯 핵심 기능 > 1️⃣ 메인 페이지 
 <img src="./screenshot/main_page1.png" width="700" height="370">
 <img src="./screenshot/main_page2.png" width="700" height="370">
-```
+
 
 ---
 
@@ -53,7 +53,7 @@
 - 🔄 크루 인원수 실시간 업데이트
 
 
-```
+
 ## 🎯 핵심 기능 > 2️⃣ 예약 시스템
 [해당 런닝 크루에 관한 설명]
 <img src="./screenshot/screenshot/explanation1.png"  width="700" height="370">
@@ -66,7 +66,7 @@
 
 [예약 확인 이메일]
 <img src="./screenshot/mypage6.png"  width="700" height="370">
-```
+
 
 ---
 
@@ -88,7 +88,7 @@
 - 📱 반응형 그리드 레이아웃
 
 
-```
+
 ## 🎯 핵심 기능 > 3️⃣ 마이페이지 아래에 이미지 추가
 [마이페이지 프로필]
 <img src="./screenshot/mypage1.png"  width="700" height="370">
@@ -103,7 +103,7 @@
 
 [비회원 예약확인]
 <img src="./screenshot/check1.png"  width="700" height="370">
-```
+
 
 ---
 
@@ -129,7 +129,7 @@
 - ⭐ 북마크 기능
 
 
-```
+
 ## 🎯 핵심 기능 > 4️⃣ 커뮤니티
 [ON CREW 페이지]
 <img src="./screenshot/oncrew1.png"  width="700" height="370">
@@ -146,7 +146,7 @@
 [RUNTOGETHER 페이지]
 <img src="./screenshot/runtogetherseoul1.png"  width="700" height="370">
 <img src="./screenshot/runtogetherseoul2.png"  width="700" height="370">
-```
+
 
 ---
 
@@ -170,7 +170,7 @@
 - 🔍 예약 코드 검증
 
 
-```
+
 ## 🎯 핵심 기능 > 5️⃣ 추가 기능 아래에 이미지 추가
 [QnA 페이지]
 <img src="./screenshot/qna1.png"  width="700" height="370">
@@ -181,7 +181,7 @@
 
 [Contact 페이지]
 <img src="./screenshot/contact1.png"  width="700" height="370">
-```
+
 
 ---
 
@@ -199,14 +199,14 @@
 - 📋 로컬스토리지 기반 사용자 DB 관리
 
 
-```
+
 ## 🎯 핵심 기능 > 6️⃣ 사용자 인증 아래에 이미지 추가
 [로그인 페이지]
 <img src="./screenshot/login1.png"  width="700" height="370">
 
 [회원가입 페이지]
 <img src="./screenshot/createaccount1.png"  width="700" height="370">
-```
+
 
 ---
 
