@@ -640,9 +640,6 @@ git clone https://github.com/yourusername/ONRUNNING.git
 이 프로젝트는 개인 포트폴리오 프로젝트입니다.
 
 
-![API 다이어그램](/screenshots/api_flow.png)
-```
-
 
 ---
 
