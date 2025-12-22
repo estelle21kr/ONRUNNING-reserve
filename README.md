@@ -639,29 +639,7 @@ git clone https://github.com/yourusername/ONRUNNING.git
 
 이 프로젝트는 개인 포트폴리오 프로젝트입니다.
 
----
 
-## 📸 스크린샷 추가 위치 정리
-
-README에 사진을 추가할 때 다음 위치에 넣으면 됩니다:
-
-```markdown
-1. # 🏃 ON RUNNING 제목 아래
-![ON RUNNING 로고](/screenshots/logo.png)
-
-2. ## 🎯 핵심 기능 각 섹션 아래
-   - 메인 페이지 => ![메인 페이지](/screenshots/01_main.png)
-   - 예약 시스템 => ![예약 페이지](/screenshots/02_reserve.png)
-   - 마이페이지 => ![마이페이지](/screenshots/03_mypage.png)
-   - 커뮤니티 => ![커뮤니티](/screenshots/04_community.png)
-
-3. ## 📁 프로젝트 구조 아래
-![폴더 구조 다이어그램](/screenshots/folder_structure.png)
-
-4. ## 🛠️ 기술 스택 아래
-![기술 스택 아이콘](/screenshots/tech_stack.png)
-
-5. 각 API 섹션 옆에
 ![API 다이어그램](/screenshots/api_flow.png)
 ```
 
